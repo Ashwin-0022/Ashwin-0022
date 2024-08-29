@@ -2,19 +2,17 @@
 # Hello, I'm Ashwin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-sriskantha)
 
-I am a dedicated cybersecurity student passionate about learning and applying innovative solutions to safeguard digital environments. My journey into cybersecurity began with learning my first programming language, Python. This foundational experience ignited my interest in the field and has driven me to pursue further knowledge and skills.
+<ul>
+  <li>Cyber Security Enthusiast 👨‍💻</li>
+  <li>undergraduate @ SLIIT</li>
+</ul>
 
-In addition to my programming background, I did ICT for my GCE A/L, which provided me with fundamental knowledge in Networking and Operating Systems. This combination of programming and technical expertise has equipped me with a solid foundation to understand and tackle complex cybersecurity challenges. I am eager to contribute and grow in the field of cybersecurity, constantly seeking opportunities to expand my knowledge and apply my skills in real-world scenarios. My goal is to become a proficient cybersecurity professional who can make a significant impact in protecting digital environments.
+## Languages & Tools
 
-## Skills
-
-| Skills                                         |
-|-----------------------------------------------|
-| Python Programming        |
-| Familiar with Linux OS |
-| Strong Decision Maker         |
-| Good team worker      |
-| Problem Solver                  |
+<img src="https://github.com/user-attachments/assets/a9dc8c2f-d764-45c9-b5ea-fce9d8fc1b44" width="50" height="50"/>
+<img src="https://github.com/user-attachments/assets/42ed4179-4fca-4527-815e-2ca34af939d9" width="50" height="50"/>
+<img src="https://github.com/user-attachments/assets/a06ddae1-715d-4d7d-850b-9055dd2248e1" width="50" height="50"/>
+<img src="https://github.com/user-attachments/assets/d930f87d-7658-49e9-98be-4dcc8ff860a5" width="50" height="50"/>
 
 ## Certifications
 <div>
