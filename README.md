@@ -9,10 +9,10 @@
 
 ## Languages & Tools
 
-<img src="https://github.com/user-attachments/assets/a9dc8c2f-d764-45c9-b5ea-fce9d8fc1b44" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/42ed4179-4fca-4527-815e-2ca34af939d9" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/a06ddae1-715d-4d7d-850b-9055dd2248e1" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/d930f87d-7658-49e9-98be-4dcc8ff860a5" width="50" height="50"/>
+<img src="https://github.com/user-attachments/assets/a9dc8c2f-d764-45c9-b5ea-fce9d8fc1b44" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/42ed4179-4fca-4527-815e-2ca34af939d9" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/a06ddae1-715d-4d7d-850b-9055dd2248e1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/d930f87d-7658-49e9-98be-4dcc8ff860a5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Certifications
 <div>
