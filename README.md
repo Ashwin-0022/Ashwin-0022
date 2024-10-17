@@ -1,6 +1,6 @@
 
 # Hello, I'm Ashwin
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-sriskantha)
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-sriskantha)-->
 
 <ul>
   <li>Cyber Security Enthusiast 👨‍💻</li>
