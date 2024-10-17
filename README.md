@@ -16,6 +16,7 @@
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/Networking%20Basics-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Introduction%20to%20Cyber%20Security-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Applied%20Python%20Cryptography-D42027?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 <img src="https://img.shields.io/badge/-Crash%20Course%20on%20Python-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
